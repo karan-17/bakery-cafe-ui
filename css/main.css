@@ -23,7 +23,7 @@
 }
 
 .main{
-    background-image: url(../makerdough.png);
+    background-image: url(../images/makerdough.png);
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
@@ -55,7 +55,7 @@
 
 
   .main2{
-    background-image: url(../texture.jpg);
+    background-image: url(../images/texture.jpg);
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
@@ -84,7 +84,7 @@
   }
 
   .main3{
-    background-image: url(../lights.jpg);
+    background-image: url(../images/lights.jpg);
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
