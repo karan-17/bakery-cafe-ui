@@ -51,7 +51,7 @@
     font-weight: 400;
     font-size: 40px;
     line-height: 100px;
-  }
+}
 
 
   .main2{
@@ -129,6 +129,15 @@
     font-size: 60px;
     line-height: 75px;
     color: #000000;
+}
+
+.content h3 img{
+    position: relative;
+    margin-bottom: -15px;
+    width: 100px;
+    height: 100px;
+    color: #000;
+    /* object-fit: cover; */
 }
 .content h2{
     font-family: 'Great Vibes';
