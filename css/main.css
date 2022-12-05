@@ -312,11 +312,9 @@ footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
-
-.icon{
     font-size: 30px;
 }
+
 .blackiconcolor{
     color: #000;
     padding-top:5px;
